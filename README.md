@@ -13,7 +13,7 @@ Their Marketing Team wants their Data Analyst to convert these survey results to
 The Marketing Team have asked to share certain insights. They have also asked to share meaningful recommendations from the data or external factors etc.
 
 ## 1. Demographic Insights (examples)
-a. Who prefers energy drink more? (male/female/non-binary?)
+* a. Who prefers energy drink more? (male/female/non-binary?) *
 b. Which age group prefers energy drinks more?
 c. Which type of marketing reaches the most Youth (15-30)?
 ## 2. Consumer Preferences:
